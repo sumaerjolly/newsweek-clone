@@ -1,4 +1,4 @@
-
+/* Navbar Section */
 #header {
     font-size: 20px;
     color: white;
@@ -61,5 +61,17 @@
     font-size: 18px;
     border: none;
 }
-  
+
+/* Main Section */
+.resize-1{
+    width: 100%;
+}
+
+.resize-2{
+    width: 100%;
+}
+
+.resize-3{
+    width: 100%;
+}
   
