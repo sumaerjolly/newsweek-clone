@@ -87,3 +87,7 @@ a{
 .resize-image{
     width: 100%;
 }
+.resize-image-3{
+    width: 100%;
+    height: 200px;
+}
