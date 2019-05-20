@@ -91,3 +91,16 @@ a{
     width: 100%;
     height: 200px;
 }
+.resize-slideshow{
+    width: 100%;
+    height: 250px;
+}
+.us-section-divide{
+    padding-bottom: 5px;
+    border-bottom: solid 1px lightgray;
+}
+.us-section-divide-1{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-bottom: solid 1px lightgray;
+}
