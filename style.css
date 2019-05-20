@@ -79,4 +79,11 @@
 a{
     text-decoration: none;
 }
-  
+
+.remove{
+    padding: 0;
+}
+
+.resize-image{
+    width: 100%;
+}
