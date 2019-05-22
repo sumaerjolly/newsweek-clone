@@ -260,3 +260,102 @@ a{
 #top-last{
     padding-top: 10px;
 }
+
+.opinion-headline{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.1;
+    margin-bottom: 5px;
+    
+}
+
+.opinion-byline{
+    color: rgb(85, 85, 85);
+    font-weight: bold;
+    font-size: 14px;
+
+
+}
+
+.opinion-border{
+    padding-top: 8px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.last-opinion{
+    padding-top: 8px;
+    margin-bottom: 20px;
+}
+
+.latest-row{
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgrey;
+    padding-top: 10px;
+}
+
+.latest-last{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.elton-special{
+    margin-bottom: 30px;
+}
+
+.sign-up-card{
+    width: 300px;
+    margin-left: 25px;
+}
+.sign-up-card span{
+    font-weight: bold;
+    color: rgb(54, 54, 54);
+    font-size: 16px;
+}
+.sign-up-card button{
+    color: white;
+    background-color: rgb(102, 102, 102);
+    margin: 10px 0 10px 0; 
+    font-weight: 500;
+}
+
+.sign-up-card a{
+    text-decoration: none;
+    color: rgb(54, 54, 54);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Section 2 CSS Starts Here */
+
+.section-2{
+    margin-top: 30px;
+}
+
+.magazine-title{
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(51,51,51);
+}
+
+.magazine-row-1{
+    margin-top: 15px;
+    border-top: solid 1px lightgrey;
+    padding-top: 10px;
+}
+
+.resize-magazine{
+    width: 100%;
+}
+
+.feature-text{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0 0 0 60px;
+    background-color: rgb(245, 245, 245);
+    height: 35px;
+}
