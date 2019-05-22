@@ -93,10 +93,13 @@ a{
 
 .resize-image{
     width: 100%;
+    height: 220px;
+    padding-bottom: 15px;
 }
 .resize-image-3{
     width: 100%;
     height: 200px;
+    padding-bottom: 10px;
 }
 .resize-slideshow{
     width: 100%;
@@ -197,7 +200,7 @@ a{
     line-height: 1.2;
 }
 .featured-description{
-    font-size:16px;
+    font-size:14px;
     color: rgb(51,51,51);
     line-height:1.1;
     padding-top: 5px;
@@ -358,4 +361,56 @@ a{
     padding: 0 0 0 60px;
     background-color: rgb(245, 245, 245);
     height: 35px;
+}
+.tag{
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 5px;
+
+}
+.tag-2{
+    color: red;
+    padding-left: 5px;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.section-2-font{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.3;
+    
+}
+.padding-headline{
+    padding-top: 10px;
+}
+
+/* Section 3 CSS Starts Here */
+.section-3{
+    margin-top: 20px;
+}
+
+.editors-row-1{
+    padding-top: 20px;
+    border-top: 1px solid lightgrey;
+}
+.section-3 div:nth-child(1){
+    padding-bottom: 10px;
+}
+.section-3-headline{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1.2;
+    font-size: 18px;
+}
+.section-3-headline:hover{
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: red;
 }
