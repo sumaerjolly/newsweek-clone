@@ -578,4 +578,7 @@ a{
     .general-header{
         margin-left: 10px;
     }
+    .content{
+        padding: 0 10px;
+    }
 }
