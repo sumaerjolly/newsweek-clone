@@ -1,1 +1,1 @@
-# newsweek-clone
+In this project I created a clone of the Newsweek site(https://www.newsweek.com/) using Bootstrap 4
